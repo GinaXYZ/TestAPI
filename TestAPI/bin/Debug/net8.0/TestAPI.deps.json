@@ -9,7 +9,8 @@
       "TestAPI/1.0.0": {
         "dependencies": {
           "Microsoft.AspNetCore.OpenApi": "8.0.21",
-          "Swashbuckle.AspNetCore": "6.6.2"
+          "Swashbuckle.AspNetCore": "6.6.2",
+          "WeatherUtils": "1.0.0.0"
         },
         "runtime": {
           "TestAPI.dll": {}
@@ -72,6 +73,14 @@
             "fileVersion": "6.6.2.401"
           }
         }
+      },
+      "WeatherUtils/1.0.0.0": {
+        "runtime": {
+          "WeatherUtils.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
       }
     }
   },
@@ -129,6 +138,11 @@
       "sha512": "sha512-mBBb+/8Hm2Q3Wygag+hu2jj69tZW5psuv0vMRXY07Wy+Rrj40vRP8ZTbKBhs91r45/HXT4aY4z0iSBYx1h6JvA==",
       "path": "swashbuckle.aspnetcore.swaggerui/6.6.2",
       "hashPath": "swashbuckle.aspnetcore.swaggerui.6.6.2.nupkg.sha512"
+    },
+    "WeatherUtils/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
     }
   }
 }

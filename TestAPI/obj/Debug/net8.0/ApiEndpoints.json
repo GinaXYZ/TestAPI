@@ -2,20 +2,20 @@
   {
     "ContainingType": "TestAPI.Program\u002B\u003C\u003Ec__DisplayClass0_0",
     "Method": "\u003CMain\u003Eb__0",
-    "RelativePath": "weatherforecast",
+    "RelativePath": "WeatherLib",
     "HttpMethod": "GET",
     "IsController": false,
     "Order": 0,
     "Parameters": [],
     "ReturnTypes": [
       {
-        "Type": "TestAPI.WeatherForecast[]",
+        "Type": "TestAPI.WeatherLib[]",
         "MediaTypes": [
           "application/json"
         ],
         "StatusCode": 200
       }
     ],
-    "EndpointName": "GetWeatherForecast"
+    "EndpointName": "GetWeatherLib"
   }
 ]

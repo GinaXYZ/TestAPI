@@ -13,8 +13,14 @@
 
   <ItemGroup>
     <Reference Include="WeatherUtils">
-      <HintPath>..\..\WeatherUtilsTester\WeatherUtilsTester\bin\Debug\net8.0\WeatherUtils.dll</HintPath>
+      <HintPath>..\..\WeatherUtils\WeatherUtils\bin\Debug\net8.0\WeatherUtils.dll</HintPath>
     </Reference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Models\" />
+    <Folder Include="Services\" />
+    <Folder Include="ViewModels\" />
   </ItemGroup>
 
 </Project>

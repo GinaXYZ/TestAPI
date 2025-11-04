@@ -34,3 +34,8 @@ C:\Users\FIA\source\repos\TestAPI\TestAPI\obj\Debug\net8.0\refint\TestAPI.dll
 C:\Users\FIA\source\repos\TestAPI\TestAPI\obj\Debug\net8.0\TestAPI.pdb
 C:\Users\FIA\source\repos\TestAPI\TestAPI\obj\Debug\net8.0\TestAPI.genruntimeconfig.cache
 C:\Users\FIA\source\repos\TestAPI\TestAPI\obj\Debug\net8.0\ref\TestAPI.dll
+C:\Users\FIA\source\repos\TestAPI\TestAPI\bin\Debug\net8.0\WeatherUtils.dll
+C:\Users\FIA\source\repos\TestAPI\TestAPI\bin\Debug\net8.0\WeatherUtils.pdb
+C:\Users\FIA\source\repos\TestAPI\TestAPI\obj\Debug\net8.0\TestAPI.sourcelink.json
+C:\Users\FIA\source\repos\TestAPI\TestAPI\obj\Debug\net8.0\TestAPI.RazorAssemblyInfo.cache
+C:\Users\FIA\source\repos\TestAPI\TestAPI\obj\Debug\net8.0\TestAPI.RazorAssemblyInfo.cs

@@ -7,12 +7,8 @@
       "RelativeMoniker": "D:0:0:{6B804388-7D75-4E72-8967-8D0E94A3632A}|TestAPI\\TestAPI.csproj|solutionrelative:testapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6B804388-7D75-4E72-8967-8D0E94A3632A}|TestAPI\\TestAPI.csproj|c:\\users\\fia\\source\\repos\\testapi\\testapi\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6B804388-7D75-4E72-8967-8D0E94A3632A}|TestAPI\\TestAPI.csproj|solutionrelative:testapi\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6B804388-7D75-4E72-8967-8D0E94A3632A}|TestAPI\\TestAPI.csproj|c:\\users\\fia\\source\\repos\\testapi\\testapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6B804388-7D75-4E72-8967-8D0E94A3632A}|TestAPI\\TestAPI.csproj|solutionrelative:testapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6B804388-7D75-4E72-8967-8D0E94A3632A}|TestAPI\\TestAPI.csproj|c:\\users\\fia\\source\\repos\\testapi\\testapi\\views\\shared\\windchill.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6B804388-7D75-4E72-8967-8D0E94A3632A}|TestAPI\\TestAPI.csproj|solutionrelative:testapi\\views\\shared\\windchill.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,8 +18,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\FIA\\source\\repos\\TestAPI\\TestAPI\\Program.cs",
+              "RelativeDocumentMoniker": "TestAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\FIA\\source\\repos\\TestAPI\\TestAPI\\Program.cs",
+              "RelativeToolTip": "TestAPI\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwD0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T12:45:12.848Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -34,41 +43,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "WeatherForecast.cs",
-              "DocumentMoniker": "C:\\Users\\FIA\\source\\repos\\TestAPI\\TestAPI\\WeatherForecast.cs",
-              "RelativeDocumentMoniker": "TestAPI\\WeatherForecast.cs",
-              "ToolTip": "C:\\Users\\FIA\\source\\repos\\TestAPI\\TestAPI\\WeatherForecast.cs",
-              "RelativeToolTip": "TestAPI\\WeatherForecast.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-30T10:56:15.419Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Person.cs",
-              "DocumentMoniker": "C:\\Users\\FIA\\source\\repos\\TestAPI\\TestAPI\\Person.cs",
-              "RelativeDocumentMoniker": "TestAPI\\Person.cs",
-              "ToolTip": "C:\\Users\\FIA\\source\\repos\\TestAPI\\TestAPI\\Person.cs",
-              "RelativeToolTip": "TestAPI\\Person.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-30T10:15:59.829Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\FIA\\source\\repos\\TestAPI\\TestAPI\\Program.cs",
-              "RelativeDocumentMoniker": "TestAPI\\Program.cs",
-              "ToolTip": "C:\\Users\\FIA\\source\\repos\\TestAPI\\TestAPI\\Program.cs",
-              "RelativeToolTip": "TestAPI\\Program.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAIwCQAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-30T10:02:05.825Z",
+              "Title": "WindChill.cshtml",
+              "DocumentMoniker": "C:\\Users\\FIA\\source\\repos\\TestAPI\\TestAPI\\Views\\Shared\\WindChill.cshtml",
+              "RelativeDocumentMoniker": "TestAPI\\Views\\Shared\\WindChill.cshtml",
+              "ToolTip": "C:\\Users\\FIA\\source\\repos\\TestAPI\\TestAPI\\Views\\Shared\\WindChill.cshtml",
+              "RelativeToolTip": "TestAPI\\Views\\Shared\\WindChill.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-04T12:47:48.339Z",
               "EditorCaption": ""
             }
           ]

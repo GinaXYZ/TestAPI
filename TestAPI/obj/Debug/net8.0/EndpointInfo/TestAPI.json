@@ -5,12 +5,12 @@
     "version": "1.0"
   },
   "paths": {
-    "/weatherforecast": {
+    "/WeatherLib": {
       "get": {
         "tags": [
           "TestAPI"
         ],
-        "operationId": "GetWeatherForecast",
+        "operationId": "GetWeatherLib",
         "responses": {
           "200": {
             "description": "OK",
@@ -19,7 +19,7 @@
                 "schema": {
                   "type": "array",
                   "items": {
-                    "$ref": "#/components/schemas/WeatherForecast"
+                    "$ref": "#/components/schemas/WeatherLib"
                   }
                 }
               }
@@ -31,7 +31,7 @@
   },
   "components": {
     "schemas": {
-      "WeatherForecast": {
+      "WeatherLib": {
         "type": "object",
         "properties": {
           "date": {
@@ -41,11 +41,6 @@
           "temperatureC": {
             "type": "integer",
             "format": "int32"
-          },
-          "temperatureF": {
-            "type": "integer",
-            "format": "int32",
-            "readOnly": true
           },
           "summary": {
             "type": "string",

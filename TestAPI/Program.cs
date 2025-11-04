@@ -1,5 +1,8 @@
 using WeatherUtils;
 using Microsoft.AspNetCore.Builder;
+using Microsoft.Extensions.DependencyInjection;
+using Microsoft.Extensions.Hosting;
+
 namespace TestAPI
 {
     public class Program
@@ -8,16 +11,15 @@ namespace TestAPI
         {
             var builder = WebApplication.CreateBuilder(args);
 
-            // Add services to the container.
+            // Add MVC support for controllers and views
+            builder.Services.AddControllersWithViews();
             builder.Services.AddAuthorization();
 
-            // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
 
             var app = builder.Build();
 
-            // Configure the HTTP request pipeline.
             if (app.Environment.IsDevelopment())
             {
                 app.UseSwagger();
@@ -26,17 +28,25 @@ namespace TestAPI
 
             app.UseHttpsRedirection();
 
+            app.UseStaticFiles();
+            app.UseRouting();
             app.UseAuthorization();
+
+            // Default MVC route
+            app.MapControllerRoute(
+                name: "default",
+                pattern: "{controller=Home}/{action=Index}/{id?}");
 
             var summaries = new[]
             {
                 "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
             };
-            // Anonyme Methode als Endpunkt
-            app.MapGet("/weatherforecast", (HttpContext httpContext) =>
+
+            // Minimal API sample endpoint (kept, but also define local WeatherLib below so it compiles)
+            _ = app.MapGet("/WeatherLib", (HttpContext httpContext) =>
             {
                 var forecast = Enumerable.Range(1, 5).Select(index =>
-                    new WeatherForecast
+                    new WeatherLib
                     {
                         Date = DateOnly.FromDateTime(DateTime.Now.AddDays(index)),
                         TemperatureC = Random.Shared.Next(-20, 55),
@@ -45,28 +55,18 @@ namespace TestAPI
                     .ToArray();
                 return forecast;
             })
-            .WithName("GetWeatherForecast")
+            .WithName("GetWeatherLib")
             .WithOpenApi();
-
-            // Benannte Methode als Endpunkt
-
 
             app.Run();
         }
-
-        public static Person GetPersonByID(int id, int mul)
-        {
-            return new Person
-            {
-                ID = id * mul,
-                FirstName = "John",
-                LastName = "Doe"
-            };
-        }
-
-            public static double GetDewPoint(double num, double num2, double num3)
-            {
-            return num2 * num3 / (num - num3);
-            }
-        }
     }
+
+    // Local definition so the sample endpoint above compiles
+    public class WeatherLib
+    {
+        public DateOnly Date { get; set; }
+        public int TemperatureC { get; set; }
+        public string Summary { get; set; } = string.Empty;
+    }
+}
