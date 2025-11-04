@@ -39,3 +39,4 @@ C:\Users\FIA\source\repos\TestAPI\TestAPI\bin\Debug\net8.0\WeatherUtils.pdb
 C:\Users\FIA\source\repos\TestAPI\TestAPI\obj\Debug\net8.0\TestAPI.sourcelink.json
 C:\Users\FIA\source\repos\TestAPI\TestAPI\obj\Debug\net8.0\TestAPI.RazorAssemblyInfo.cache
 C:\Users\FIA\source\repos\TestAPI\TestAPI\obj\Debug\net8.0\TestAPI.RazorAssemblyInfo.cs
+C:\Users\FIA\source\repos\TestAPI\TestAPI\bin\Debug\net8.0\TestAPI.staticwebassets.runtime.json

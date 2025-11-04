@@ -10,8 +10,6 @@ namespace TestAPI
         public static void Main(string[] args)
         {
             var builder = WebApplication.CreateBuilder(args);
-
-            // Add MVC support for controllers and views
             builder.Services.AddControllersWithViews();
             builder.Services.AddAuthorization();
 
@@ -32,7 +30,6 @@ namespace TestAPI
             app.UseRouting();
             app.UseAuthorization();
 
-            // Default MVC route
             app.MapControllerRoute(
                 name: "default",
                 pattern: "{controller=Home}/{action=Index}/{id?}");
@@ -42,7 +39,6 @@ namespace TestAPI
                 "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
             };
 
-            // Minimal API sample endpoint (kept, but also define local WeatherLib below so it compiles)
             _ = app.MapGet("/WeatherLib", (HttpContext httpContext) =>
             {
                 var forecast = Enumerable.Range(1, 5).Select(index =>
@@ -62,7 +58,6 @@ namespace TestAPI
         }
     }
 
-    // Local definition so the sample endpoint above compiles
     public class WeatherLib
     {
         public DateOnly Date { get; set; }
