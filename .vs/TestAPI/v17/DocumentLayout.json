@@ -3,40 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\FIA\\source\\repos\\TestAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6B804388-7D75-4E72-8967-8D0E94A3632A}|TestAPI\\TestAPI.csproj|c:\\users\\fia\\source\\repos\\testapi\\testapi\\views\\shared\\wolkenhoehe.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6B804388-7D75-4E72-8967-8D0E94A3632A}|TestAPI\\TestAPI.csproj|solutionrelative:testapi\\views\\shared\\wolkenhoehe.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6B804388-7D75-4E72-8967-8D0E94A3632A}|TestAPI\\TestAPI.csproj|c:\\users\\fia\\source\\repos\\testapi\\testapi\\views\\shared\\hitzeindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6B804388-7D75-4E72-8967-8D0E94A3632A}|TestAPI\\TestAPI.csproj|solutionrelative:testapi\\views\\shared\\hitzeindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{6B804388-7D75-4E72-8967-8D0E94A3632A}|TestAPI\\TestAPI.csproj|c:\\users\\fia\\source\\repos\\testapi\\testapi\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6B804388-7D75-4E72-8967-8D0E94A3632A}|TestAPI\\TestAPI.csproj|solutionrelative:testapi\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6B804388-7D75-4E72-8967-8D0E94A3632A}|TestAPI\\TestAPI.csproj|c:\\users\\fia\\source\\repos\\testapi\\testapi\\views\\shared\\taupunkt.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{6B804388-7D75-4E72-8967-8D0E94A3632A}|TestAPI\\TestAPI.csproj|solutionrelative:testapi\\views\\shared\\taupunkt.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6B804388-7D75-4E72-8967-8D0E94A3632A}|TestAPI\\TestAPI.csproj|c:\\users\\fia\\source\\repos\\testapi\\testapi\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6B804388-7D75-4E72-8967-8D0E94A3632A}|TestAPI\\TestAPI.csproj|solutionrelative:testapi\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6B804388-7D75-4E72-8967-8D0E94A3632A}|TestAPI\\TestAPI.csproj|c:\\users\\fia\\source\\repos\\testapi\\testapi\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6B804388-7D75-4E72-8967-8D0E94A3632A}|TestAPI\\TestAPI.csproj|solutionrelative:testapi\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{6B804388-7D75-4E72-8967-8D0E94A3632A}|TestAPI\\TestAPI.csproj|c:\\users\\fia\\source\\repos\\testapi\\testapi\\views\\shared\\wolkenh\u00F6he.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6B804388-7D75-4E72-8967-8D0E94A3632A}|TestAPI\\TestAPI.csproj|solutionrelative:testapi\\views\\shared\\wolkenh\u00F6he.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6B804388-7D75-4E72-8967-8D0E94A3632A}|TestAPI\\TestAPI.csproj|c:\\users\\fia\\source\\repos\\testapi\\testapi\\views\\shared\\windchill.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{6B804388-7D75-4E72-8967-8D0E94A3632A}|TestAPI\\TestAPI.csproj|solutionrelative:testapi\\views\\shared\\windchill.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{6B804388-7D75-4E72-8967-8D0E94A3632A}|TestAPI\\TestAPI.csproj|c:\\users\\fia\\source\\repos\\testapi\\testapi\\views\\shared\\hitzeindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6B804388-7D75-4E72-8967-8D0E94A3632A}|TestAPI\\TestAPI.csproj|solutionrelative:testapi\\views\\shared\\hitzeindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B804388-7D75-4E72-8967-8D0E94A3632A}|TestAPI\\TestAPI.csproj|c:\\users\\fia\\source\\repos\\testapi\\testapi\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6B804388-7D75-4E72-8967-8D0E94A3632A}|TestAPI\\TestAPI.csproj|solutionrelative:testapi\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6B804388-7D75-4E72-8967-8D0E94A3632A}|TestAPI\\TestAPI.csproj|c:\\users\\fia\\source\\repos\\testapi\\testapi\\controllers\\weathercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6B804388-7D75-4E72-8967-8D0E94A3632A}|TestAPI\\TestAPI.csproj|solutionrelative:testapi\\controllers\\weathercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6B804388-7D75-4E72-8967-8D0E94A3632A}|TestAPI\\TestAPI.csproj|c:\\users\\fia\\source\\repos\\testapi\\testapi\\services\\iweatherservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6B804388-7D75-4E72-8967-8D0E94A3632A}|TestAPI\\TestAPI.csproj|solutionrelative:testapi\\services\\iweatherservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6B804388-7D75-4E72-8967-8D0E94A3632A}|TestAPI\\TestAPI.csproj|c:\\users\\fia\\source\\repos\\testapi\\testapi\\models\\weatherresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6B804388-7D75-4E72-8967-8D0E94A3632A}|TestAPI\\TestAPI.csproj|solutionrelative:testapi\\models\\weatherresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B804388-7D75-4E72-8967-8D0E94A3632A}|TestAPI\\TestAPI.csproj|c:\\users\\fia\\source\\repos\\testapi\\testapi\\services\\iweatherservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B804388-7D75-4E72-8967-8D0E94A3632A}|TestAPI\\TestAPI.csproj|solutionrelative:testapi\\services\\iweatherservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,59 +58,59 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Wolkenhoehe.cshtml",
-              "DocumentMoniker": "C:\\Users\\FIA\\source\\repos\\TestAPI\\TestAPI\\Views\\Shared\\Wolkenhoehe.cshtml",
-              "RelativeDocumentMoniker": "TestAPI\\Views\\Shared\\Wolkenhoehe.cshtml",
-              "ToolTip": "C:\\Users\\FIA\\source\\repos\\TestAPI\\TestAPI\\Views\\Shared\\Wolkenhoehe.cshtml",
-              "RelativeToolTip": "TestAPI\\Views\\Shared\\Wolkenhoehe.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Wolkenh\u00F6he.cshtml",
+              "DocumentMoniker": "C:\\Users\\FIA\\source\\repos\\TestAPI\\TestAPI\\Views\\Shared\\Wolkenh\u00F6he.cshtml",
+              "RelativeDocumentMoniker": "TestAPI\\Views\\Shared\\Wolkenh\u00F6he.cshtml",
+              "ToolTip": "C:\\Users\\FIA\\source\\repos\\TestAPI\\TestAPI\\Views\\Shared\\Wolkenh\u00F6he.cshtml",
+              "RelativeToolTip": "TestAPI\\Views\\Shared\\Wolkenh\u00F6he.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAUwBUAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-11-05T08:03:10.312Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Hitzeindex.cshtml",
               "DocumentMoniker": "C:\\Users\\FIA\\source\\repos\\TestAPI\\TestAPI\\Views\\Shared\\Hitzeindex.cshtml",
               "RelativeDocumentMoniker": "TestAPI\\Views\\Shared\\Hitzeindex.cshtml",
               "ToolTip": "C:\\Users\\FIA\\source\\repos\\TestAPI\\TestAPI\\Views\\Shared\\Hitzeindex.cshtml",
               "RelativeToolTip": "TestAPI\\Views\\Shared\\Hitzeindex.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAUwBQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-11-05T08:02:58.434Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Taupunkt.cshtml",
               "DocumentMoniker": "C:\\Users\\FIA\\source\\repos\\TestAPI\\TestAPI\\Views\\Shared\\Taupunkt.cshtml",
               "RelativeDocumentMoniker": "TestAPI\\Views\\Shared\\Taupunkt.cshtml",
               "ToolTip": "C:\\Users\\FIA\\source\\repos\\TestAPI\\TestAPI\\Views\\Shared\\Taupunkt.cshtml",
               "RelativeToolTip": "TestAPI\\Views\\Shared\\Taupunkt.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-11-05T08:02:46.113Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\FIA\\source\\repos\\TestAPI\\TestAPI\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "TestAPI\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\FIA\\source\\repos\\TestAPI\\TestAPI\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "TestAPI\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAFsAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-11-04T14:35:59.043Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\FIA\\source\\repos\\TestAPI\\TestAPI\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "TestAPI\\Views\\Home\\Index.cshtml",
@@ -123,7 +123,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "WeatherResponse.cs",
               "DocumentMoniker": "C:\\Users\\FIA\\source\\repos\\TestAPI\\TestAPI\\Models\\WeatherResponse.cs",
               "RelativeDocumentMoniker": "TestAPI\\Models\\WeatherResponse.cs",
@@ -131,11 +131,12 @@
               "RelativeToolTip": "TestAPI\\Models\\WeatherResponse.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-04T13:17:02.77Z"
+              "WhenOpened": "2025-11-04T13:17:02.77Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "IWeatherServices.cs",
               "DocumentMoniker": "C:\\Users\\FIA\\source\\repos\\TestAPI\\TestAPI\\Services\\IWeatherServices.cs",
               "RelativeDocumentMoniker": "TestAPI\\Services\\IWeatherServices.cs",
@@ -143,17 +144,18 @@
               "RelativeToolTip": "TestAPI\\Services\\IWeatherServices.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-04T13:16:34.981Z"
+              "WhenOpened": "2025-11-04T13:16:34.981Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "WindChill.cshtml",
               "DocumentMoniker": "C:\\Users\\FIA\\source\\repos\\TestAPI\\TestAPI\\Views\\Shared\\WindChill.cshtml",
               "RelativeDocumentMoniker": "TestAPI\\Views\\Shared\\WindChill.cshtml",
               "ToolTip": "C:\\Users\\FIA\\source\\repos\\TestAPI\\TestAPI\\Views\\Shared\\WindChill.cshtml",
               "RelativeToolTip": "TestAPI\\Views\\Shared\\WindChill.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-11-04T12:47:48.339Z",
               "EditorCaption": ""
@@ -166,9 +168,10 @@
               "RelativeDocumentMoniker": "TestAPI\\Controllers\\WeatherController.cs",
               "ToolTip": "C:\\Users\\FIA\\source\\repos\\TestAPI\\TestAPI\\Controllers\\WeatherController.cs",
               "RelativeToolTip": "TestAPI\\Controllers\\WeatherController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-04T13:20:29.045Z"
+              "WhenOpened": "2025-11-04T13:20:29.045Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
